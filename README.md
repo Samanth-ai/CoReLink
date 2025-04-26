@@ -1,7 +1,8 @@
-```markdown
 # CoReLink (Community Resource Link )
 
-AI-Enhanced Dementia Resource Navigator: Connecting Patients and Caregivers with Essential Support Services
+**AI-Enhanced Dementia Resource Navigator: Connecting Patients and Caregivers with Essential Support Services**
+
+---
 
 ## Project Overview
 
@@ -17,8 +18,8 @@ This project uses AI (Google Gemini, LlamaIndex) and web search to help identify
   Check with:
   ```bash
   python3 --version
-  ```
-  If not installed, download from [python.org](https://www.python.org/downloads/release/python-3110/).
+  
+  If not installed, download it from python.org.
 
 - **pip** (Python package manager) should be available.
 
