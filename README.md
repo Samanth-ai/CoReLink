@@ -15,7 +15,7 @@ This project uses AI (Google Gemini, LlamaIndex) and web search to help identify
 
 - **Python 3.11** must be installed.  
   Check with:
-  ```
+  ```bash
   python3 --version
   ```
   If not installed, download from [python.org](https://www.python.org/downloads/release/python-3110/).
