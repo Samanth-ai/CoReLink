@@ -78,7 +78,7 @@ def convert_to_excel(resource_list_obj: ResourceList):
 
 # --- Streamlit UI Setup ---
 st.set_page_config(layout="wide") # Use wider layout for table display
-st.title("AI-Enhanced Dementia Resource Navigator: Connecting Patients and Caregivers with Essential Support Services")
+st.title("AI-Driven Navigation Support for Persons Living with Dementia and Their Caregivers (CoReLink)")
 
 # --- Disclaimer and Warnings ---
 st.warning(
