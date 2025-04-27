@@ -97,6 +97,25 @@ streamlit run app.py
 The app will open in your browser.  
 Follow the on-screen instructions to enter patient/caregiver context and find resources.
 
+
+---
+
+### 6. Enter Patient Context
+
+Copy sample context from the `input.txt` file and paste it under "Enter Patient Context" in the UI.
+
+---
+
+### 7. Review Masked Context
+
+Review the masked context displayed in the UI.
+
+---
+
+### 8. Find Resources
+
+Click on the "Find Resources" button to display the output.
+
 ---
 
 ## Notes
