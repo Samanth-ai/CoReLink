@@ -1,17 +1,23 @@
-Case Study 1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Case Study 1 :
+
 Patient and Caregiver Background:
 An 85-year-old Spanish-speaking male living in Travis County (Zip code: 78744) has been hospitalized due to a fall. He has a diagnosis of moderate-stage Alzheimer’s disease. His primary caregiver is his 75-year-old wife, who also speaks limited English. Both the patient and caregiver experience significant language barriers that limit their ability to effectively communicate with healthcare providers, understand the Alzheimer’s diagnosis, follow medication instructions, and access available services.
+
 Discharge Planning Needs:
 The patient is scheduled for hospital discharge in two days. He is insured through Medicare but does not have Medicaid. The couple lives on a limited income and lacks access to many supportive services. Upon discharge, they are expected to need:
 •	Transportation from the hospital to their home.
 •	Assistance accessing affordable or discounted medications.
 •	Home safety modifications, as their current living environment presents several fall and safety risks.
 •	Personal care support with meal preparation, occasional bathing, and managing emotional outbursts related to dementia.
+
 Caregiver Context:
 The patient’s wife feels overwhelmed and isolated. She reports uncertainty about how to navigate dementia care and expresses concern about her ability to continue providing care alone. Her own physical health is poor and complicated by multiple chronic conditions, further limiting her capacity to provide ongoing support.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Case Study 2
+Case Study 2 :
+
 Patient Background:
 Mr. James Lopez is a 77-year-old Hispanic (English speaking) man living in East Austin (Zip code: 78721). He has a diagnosis of advanced Alzheimer’s disease and was recently hospitalized for a urinary tract infection and increased confusion. His condition has progressed to the point where he needs daily assistance with all activities of daily living (ADLs) — including bathing, dressing, toileting, and eating. He is disoriented most of the day, has difficulty communicating his needs, and is at high risk for falls due to unsteady gait and wandering behaviors.
 James lives with his niece, Tanya Lopez, a 45-year-old single mother who works full-time and provides care before and after work. Tanya is deeply committed to her uncle’s care but struggles to manage his needs alone, especially during the day when she is at work. Their small rented duplex has limited space and is not accessible or dementia-friendly. Tanya is worried about eviction, as her uncle’s needs have prevented her from maintaining consistent hours at work.	
@@ -21,14 +27,19 @@ Caregiver and Family Context:
 Tanya is James’s only family in the area. She has limited income, no car, and no paid leave from her job. She reports that she’s emotionally and physically exhausted, and worried about losing both her job and their housing. She is not familiar with the Medicaid application process or where to go for support with housing, respite care, or long-term planning for her uncle.
 The family qualifies as low-income, and James currently has Medicare only, with no Medicaid or supplemental insurance. They are not connected to local aging or disability resource centers.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Case Study 3:
 
-Case Study 3
 Patient Background:
 Mrs. Rosa Brown is an 82-year-old African American woman with a diagnosis of moderately advanced Alzheimer’s disease, admitted to the hospital after a fall and dehydration. She currently lives alone in a modest home she owns in North Austin (Zip code: 78758). Rosa is widowed, with no in-home caregiver support. Her dementia symptoms include disorientation, nighttime wandering, occasional emotional outbursts, and increasing dependence with basic activities like bathing, dressing, medication management, and meal preparation. Her home presents multiple safety hazards, including cluttered walkways, no grab bars, and poor lighting.
 Rosa is scheduled to be discharged in two days to a short-term skilled nursing facility (SNF) for rehabilitation and stabilization. Discharge home is anticipated in 2–3 weeks, but there is significant uncertainty about the level of support she will need, and how long she will be able to remain at home safely.
+
 Caregiver Context:
 Her daughter, Clara Brown, age 50, lives out of state and is Rosa’s only living child. Clara is her primary caregiver and decision-maker but is navigating her role as a long-distance caregiver with limited financial resources. She works full-time in a low-paying marketing role and is barely managing her own expenses, which limits her ability to travel frequently or pay for private in-home services.
 Clara is feeling overwhelmed and anxious about her mother’s care trajectory. She has limited knowledge of dementia care systems, insurance coverage, or available community resources. She is worried about making the right decisions, especially as her mother’s needs grow and Rosa becomes less able to live alone.
+
 Financial and Social Context:
 Rosa has Medicare, but does not qualify for Medicaid. The family is low- to middle-income, and while Rosa owns her home, she has limited savings. Paying out-of-pocket for in-home care, memory care, or assisted living is not feasible long-term. Clara cannot contribute financially and is seeking guidance on financial planning for long-term care and how to identify low-cost or subsidized support options.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
